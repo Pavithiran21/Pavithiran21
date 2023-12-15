@@ -49,3 +49,8 @@ Here are some ideas to get you started:
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 </p>
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavithiran21&show_icons=true&theme=radical)
