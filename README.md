@@ -53,4 +53,6 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavithiran21&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavithiran21&show_icons=true&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Pavithiran21&theme=dark)
+
