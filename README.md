@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=3648DC&center=true&vCenter=true&width=1200&height=125&lines=Hi+%F0%9F%91%8B%2C+I'm+Pavithiran;Full+Stack+Developer" alt="Typing SVG" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pavithiran21&label=Profile%20views&color=0e75b6&style=flat" alt="Pavithiran21" /> </p>
+
 
 
 ### Hi there 👋
