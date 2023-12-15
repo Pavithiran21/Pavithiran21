@@ -40,8 +40,8 @@
 </p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithiran21&layout=compact&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithiran21&layout=compact&theme=yellow)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavithiran21&show_icons=true&theme=light)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Pavithiran21&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavithiran21&show_icons=true&theme=yellow)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Pavithiran21&theme=yellow)
 
