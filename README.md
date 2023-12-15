@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 
 
-
+![GitHub language](https://github-readme-stats.vercel.app/api?username=Pavithiran21&show_icons=true&theme=light)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavithiran21&show_icons=true&theme=light)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Pavithiran21&theme=light)
 
