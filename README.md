@@ -7,8 +7,7 @@
 
 
 - 🌱 I’m currently learning Full Stack Developement
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on MERN Projects
 - 💬 Ask me about ...HTML5,CSS3,Javascript,ReactJsNodeJs,MongoDB
 - 📫 How to reach me: pavithiranarthi359@gmail.com
 
